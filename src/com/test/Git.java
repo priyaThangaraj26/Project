@@ -15,4 +15,14 @@ System.out.println("Java");
 System.out.println("Python");
 	}
 
+	private void TrainerName() {
+System.out.println("Merin");
+	}
+	private void TrainerName1() {
+		System.out.println("Nithish");
+			}
+	private void TrainerName2() {
+		System.out.println("VelMurugan");
+			}
+	
 }
